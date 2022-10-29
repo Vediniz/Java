@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Fibonacci">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Fibonacci.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
